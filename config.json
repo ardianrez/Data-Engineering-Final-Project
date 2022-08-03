@@ -1,0 +1,6 @@
+{
+    "hadoop":{
+        "ip":"http://localhost:9870",
+        "user":"DigitalSkola"
+    }
+}
